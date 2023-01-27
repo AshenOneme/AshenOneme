@@ -1,5 +1,5 @@
 # Hi 🐼 Welcome to Ashen's Github Homepage!
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;非淡泊无以明志，非宁静注无以致远。;夫学须静也，才须学也，非学无以广才，非志无以成学。;淫慢则不能励精，险躁则不能治性。&font=Roboto" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;非淡泊无以明志，非宁静注无以致远。;非学无以广才，非志无以成学。;淫慢则不能励精，险躁则不能治性。&font=Roboto" />
 
 </p>
 
