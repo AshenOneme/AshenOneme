@@ -6,5 +6,4 @@
 ![Ashen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshenOneme&show_icons=true&theme=radical)
 ![Ashen's Bilibili stats](https://stats.justsong.cn/api/bilibili/?id=32783374&theme=dark)
 [![trophy](https://github-profile-trophy.vercel.app/?username=AshenOneme&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AshenOneme&theme=dracula)(https://github.com/ashutosh00710/github-readme-activity-graph)
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=AshenOneme" /> </div>  
