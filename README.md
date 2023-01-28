@@ -28,7 +28,7 @@
 
 <div align="center"> 
 <img src="https://visitor-badge.glitch.me/badge?page_id=AshenOneme" /> 
-<a href="https://mp.weixin.qq.com/s/V-zOT4yfWShJ6UQ0F5T-Sg"><img src="https://img.shields.io/badge/公众号-爱研思谈-brightgreen?style=flat-square&logo=Wechat&logoColor=07C160" /></a>
+<a href="https://mp.weixin.qq.com/s/V-zOT4yfWShJ6UQ0F5T-Sg"><img src="https://img.shields.io/badge/公众号-爱研思谈-brightgreen?style=style=flat-square&logo=Wechat&logoColor=07C160" /></a>
 
 </div> 
 
