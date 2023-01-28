@@ -3,7 +3,7 @@
 
 </p>
 
-🧰 常用的工具
+🧰 经常访问
 
 &emsp;&emsp; 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
@@ -15,7 +15,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 ![Abaqus](https://img.shields.io/badge/-Abaqus-005386?style=flat-square&logo=Dassault-Systèmes&logoColor=fff)
 ![Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white)
-
+![SCI](https://img.shields.io/badge/-SCI-FFC600?style=flat-square&logo=Elsevier&logoColor=black)
 
 </div>
 
