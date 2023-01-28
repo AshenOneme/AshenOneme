@@ -14,6 +14,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 ![Abaqus](https://img.shields.io/badge/-Abaqus-005386?style=flat-square&logo=Dassault-Systèmes&logoColor=fff)
+![OpenSees](https://img.shields.io/badge/-OpenSees-666666?style=flat-square&logo=Internet-Archive&logoColor=fff)
 ![Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white)
 ![SCI](https://img.shields.io/badge/-SCI-FFC600?style=flat-square&logo=Elsevier&logoColor=black)
 
