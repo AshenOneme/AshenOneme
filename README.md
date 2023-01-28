@@ -22,4 +22,11 @@
 ![Ashen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshenOneme&show_icons=true&theme=radical)
 ![Ashen's Bilibili stats](https://stats.justsong.cn/api/bilibili/?id=32783374&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=AshenOneme&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=AshenOneme" /> </div>  
+
+<div align="center"> 
+<img src="https://visitor-badge.glitch.me/badge?page_id=AshenOneme" /> 
+<a href="https://mp.weixin.qq.com/s/V-zOT4yfWShJ6UQ0F5T-Sg"><img src="https://img.shields.io/badge/公众号-爱研思谈-FFC600?style=flat-square&logo=Wechat&logoColor=fff" /></a>
+
+</div> 
+
+
