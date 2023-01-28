@@ -16,6 +16,7 @@
 ![Abaqus](https://img.shields.io/badge/-Abaqus-005386?style=flat-square&logo=Dassault-Systèmes&logoColor=fff)
 ![OpenSees](https://img.shields.io/badge/-OpenSees-666666?style=flat-square&logo=Internet-Archive&logoColor=fff)
 ![Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP%20Home-000000?style=flat-square&logo=ESPHome&logoColor=white)
 ![SCI](https://img.shields.io/badge/-SCI-FFC600?style=flat-square&logo=Elsevier&logoColor=black)
 
 </div>
