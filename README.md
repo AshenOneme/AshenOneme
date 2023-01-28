@@ -9,16 +9,16 @@
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![Sklearn](https://img.shields.io/badge/-Sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
-![Abaqus](https://img.shields.io/badge/-Abaqus-005386?style=flat-square&logo=Dassault-Systèmes&logoColor=fff)
-![OpenSees](https://img.shields.io/badge/-OpenSees-666666?style=flat-square&logo=Internet-Archive&logoColor=fff)
-![Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white)
-![ESP32](https://img.shields.io/badge/-ESP%20Home-000000?style=flat-square&logo=ESPHome&logoColor=white)
-![SCI](https://img.shields.io/badge/-SCI-FFC600?style=flat-square&logo=Elsevier&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=style=flat-square&logo=Python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=style=flat-square&logo=PyTorch&logoColor=white)
+![Sklearn](https://img.shields.io/badge/-Sklearn-F7931E?style=style=flat-square&logo=scikit-learn&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-pink?style=style=flat-square&logo=github)
+![Abaqus](https://img.shields.io/badge/-Abaqus-005386?style=style=flat-square&logo=Dassault-Systèmes&logoColor=fff)
+![OpenSees](https://img.shields.io/badge/-OpenSees-666666?style=style=flat-square&logo=Internet-Archive&logoColor=fff)
+![Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=style=flat-square&logo=Raspberry-Pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP%20Home-000000?style=style=flat-square&logo=ESPHome&logoColor=white)
+![SCI](https://img.shields.io/badge/-SCI-FFC600?style=style=flat-square&logo=Elsevier&logoColor=black)
 
 </div>
 
