@@ -28,9 +28,14 @@
 <p>&emsp;&emsp;Once a new technology becomes popular, you can either sit on the roller or become a paving stone.</p>
 <p>&emsp;&emsp;一种新技术一旦开始流行,你要么坐上压路机,要么成为铺路石。</p>
 
+<div align="center"> 
+     
+<img src="https://github-readme-stats.vercel.app/api?username=AshenOneme&show_icons=true&theme=radical" /> 
+<img src="https://stats.justsong.cn/api/bilibili/?id=32783374&theme=radical" /> 
+     
+</div>
+
 <!-- 个人信息统计 -->
-     ![Ashen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshenOneme&show_icons=true&theme=radical)
-![Ashen's Bilibili stats](https://stats.justsong.cn/api/bilibili/?id=32783374&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=AshenOneme&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center"> 
