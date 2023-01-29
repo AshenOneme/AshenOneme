@@ -26,13 +26,13 @@
 
 <p>✍️&nbsp;&nbsp;大家好，我是Ashen! 目前就读于南京工业大学，坚信代码让土木更美好!</p>
 <p>&emsp;&emsp;Once a new technology becomes popular, you can either sit on the roller or become a paving stone.</p>
-<p>&emsp;&emsp;一种新技术一旦开始流行,你要么坐上压路机,要么成为铺路石。</p>
+<p>&emsp;&emsp;一种新技术一旦开始流行，你要么坐上压路机，要么成为铺路石。</p>
 
-<div align="center"> 
 <!-- 个人信息统计 --> 
-<img src="https://github-readme-stats.vercel.app/api?username=AshenOneme&show_icons=true&theme=radical" /> 
-<img src="https://stats.justsong.cn/api/bilibili/?id=32783374&theme=radical" /> 
-<img src="https://github-profile-trophy.vercel.app/?username=AshenOneme&theme=onedark" />  
+<div align="center"> 
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=AshenOneme&show_icons=true&theme=radical" /> 
+  <img height="140px" src="https://stats.justsong.cn/api/bilibili/?id=32783374&theme=radical" /> 
+  <img src="https://github-profile-trophy.vercel.app/?username=AshenOneme&theme=onedark" />  
 </div>
 
 <div align="center"> 
