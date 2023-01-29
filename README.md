@@ -30,8 +30,8 @@
 
 <!-- 个人信息统计 --> 
 <div align="center"> 
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=AshenOneme&show_icons=true&theme=radical" /> 
-  <img height="140px" src="https://stats.justsong.cn/api/bilibili/?id=32783374&theme=radical" /> 
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=AshenOneme&show_icons=true&theme=radical" /> 
+  <img height="150px" src="https://stats.justsong.cn/api/bilibili/?id=32783374&theme=radical" /> 
   <img src="https://github-profile-trophy.vercel.app/?username=AshenOneme&theme=onedark" />  
 </div>
 
