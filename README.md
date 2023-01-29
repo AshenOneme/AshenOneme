@@ -5,8 +5,7 @@
 &emsp;&emsp; 
 
 🧰 经常访问
-
-
+<!-- 经常访问的图标 -->
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=style=flat-square&logo=Python&logoColor=white)
@@ -22,11 +21,20 @@
 
 </div>
 
+<!-- Self introduction 自我介绍 -->
+#  🙋 Hello
+
+<p>✍️&nbsp;&nbsp;大家好，我是Ashen! 目前就读于南京工业大学，坚信代码让土木更美好!</p>
+<p>&emsp;&emsp;Once a new technology becomes popular, you can either sit on the roller or become a paving stone.</p>
+<p>&emsp;&emsp;一种新技术一旦开始流行,你要么坐上压路机,要么成为铺路石。</p>
+
+<!-- 个人信息统计 -->
 ![Ashen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshenOneme&show_icons=true&theme=radical)
 ![Ashen's Bilibili stats](https://stats.justsong.cn/api/bilibili/?id=32783374&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=AshenOneme&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center"> 
+<!-- visitor statistics logo 访客数统计徽标 -->
 <img src="https://visitor-badge.glitch.me/badge?page_id=AshenOneme" /> 
 <a href="https://mp.weixin.qq.com/s/V-zOT4yfWShJ6UQ0F5T-Sg"><img src="https://img.shields.io/badge/公众号-爱研思谈-brightgreen?style=style=flat-square&logo=Wechat&logoColor=07C160" /></a>
 <img src="https://img.shields.io/badge/QQ群-904117681-1A162D?colorA=abcdef&colorB=36465D&style=style=flat-square&logo=Tencent-QQ&logoColor=1A162D" />
