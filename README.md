@@ -29,14 +29,11 @@
 <p>&emsp;&emsp;一种新技术一旦开始流行,你要么坐上压路机,要么成为铺路石。</p>
 
 <div align="center"> 
-     
+<!-- 个人信息统计 --> 
 <img src="https://github-readme-stats.vercel.app/api?username=AshenOneme&show_icons=true&theme=radical" /> 
 <img src="https://stats.justsong.cn/api/bilibili/?id=32783374&theme=radical" /> 
-     
+<img src="https://github-profile-trophy.vercel.app/?username=AshenOneme&theme=onedark" />  
 </div>
-
-<!-- 个人信息统计 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=AshenOneme&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center"> 
 <!-- visitor statistics logo 访客数统计徽标 -->
