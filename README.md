@@ -29,7 +29,7 @@
 <p>&emsp;&emsp;一种新技术一旦开始流行,你要么坐上压路机,要么成为铺路石。</p>
 
 <!-- 个人信息统计 -->
-![Ashen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshenOneme&show_icons=true&theme=radical)
+     ![Ashen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshenOneme&show_icons=true&theme=radical)
 ![Ashen's Bilibili stats](https://stats.justsong.cn/api/bilibili/?id=32783374&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=AshenOneme&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
