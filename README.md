@@ -17,7 +17,7 @@
 <a href="http://wufengyun.com:888/"><img src="https://img.shields.io/badge/-Abaqus-005386?style=style=flat-square&logo=Dassault Systèmes&logoColor=fff" /></a>
 <a href="https://opensees.berkeley.edu/wiki/index.php/Command_Manual"><img src="https://img.shields.io/badge/-OpenSees-666666?style=style=flat-square&logo=Internet-Archive&logoColor=fff" /></a>
 <a href="https://www.raspberrypi.com/software/"><img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=style=flat-square&logo=Raspberry-Pi&logoColor=white" /></a>  
-<a href="https://www.sciencedirect.com/"><img src="https://img.shields.io/badge/-SCI-FFC600?style=style=flat-square&logo=Elsevier&logoColor=black" /></a>
+<a href="https://www.sciencedirect.com/"><img src="https://img.shields.io/badge/-Sci-FFC600?style=style=flat-square&logo=Elsevier&logoColor=black" /></a>
 </div> 
 
 <!-- Self introduction 自我介绍 -->
