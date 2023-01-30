@@ -18,6 +18,7 @@
 <a href="https://opensees.berkeley.edu/wiki/index.php/Command_Manual"><img src="https://img.shields.io/badge/-OpenSees-666666?style=style=flat-square&logo=Internet-Archive&logoColor=fff" /></a>
 <a href="https://www.raspberrypi.com/software/"><img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=style=flat-square&logo=Raspberry-Pi&logoColor=white" /></a>  
 <a href="https://www.sciencedirect.com/"><img src="https://img.shields.io/badge/-Sci-FFC600?style=style=flat-square&logo=Elsevier&logoColor=black" /></a>
+<a href="https://simpleicons.org/"><img src="https://img.shields.io/badge/-Simple%20Icons-111111?style=style=flat-square&logo=Simple Icons&logoColor=fff" /></a>
 </div> 
 
 <!-- Self introduction 自我介绍 -->
