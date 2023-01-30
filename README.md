@@ -12,6 +12,7 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=style=flat-square&logo=PyTorch&logoColor=white)
 ![Sklearn](https://img.shields.io/badge/-Sklearn-F7931E?style=style=flat-square&logo=scikit-learn&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=style=flat-square&logo=Jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=style=flat-square&logo=github)
 ![Abaqus](https://img.shields.io/badge/-Abaqus-005386?style=style=flat-square&logo=Dassault-Systèmes&logoColor=fff)
 ![OpenSees](https://img.shields.io/badge/-OpenSees-666666?style=style=flat-square&logo=Internet-Archive&logoColor=fff)
