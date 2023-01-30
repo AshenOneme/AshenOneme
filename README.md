@@ -8,8 +8,6 @@
 
 🧰 经常访问
 <!-- 经常访问的图标 -->
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=style=flat-square&logo=Python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=style=flat-square&logo=PyTorch&logoColor=white)
 ![Sklearn](https://img.shields.io/badge/-Sklearn-F7931E?style=style=flat-square&logo=scikit-learn&logoColor=white)
@@ -20,6 +18,7 @@
 ![Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=style=flat-square&logo=Raspberry-Pi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP%20Home-000000?style=style=flat-square&logo=ESPHome&logoColor=white)
 ![SCI](https://img.shields.io/badge/-SCI-FFC600?style=style=flat-square&logo=Elsevier&logoColor=black)
+![Steam](https://img.shields.io/badge/-Steam-000000?style=style=flat-square&logo=Steam&logoColor=white)
 
 </div>
 
