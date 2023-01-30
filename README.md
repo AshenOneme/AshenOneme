@@ -11,7 +11,7 @@
 <div align="center"> 
 <!-- visitor statistics logo 访客数统计徽标 -->
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=style=flat-square&logo=Python&logoColor=white" /></a>
-
+<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=style=flat-square&logo=PyTorch&logoColor=white" /></a>
 </div> 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=style=flat-square&logo=Python&logoColor=white)
