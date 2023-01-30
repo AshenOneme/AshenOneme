@@ -13,7 +13,7 @@
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=style=flat-square&logo=Python&logoColor=white" /></a>
 <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=style=flat-square&logo=PyTorch&logoColor=white" /></a>
 <a href="https://scikit-learn.org/stable/#"><img src="https://img.shields.io/badge/-Sklearn-F7931E?style=style=flat-square&logo=scikit-learn&logoColor=white" /></a>
-  
+<a href="https://kgithub.com/AshenOneme"><img src="https://img.shields.io/badge/-GitHub-pink?style=style=flat-square&logo=github" /></a>
 </div> 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=style=flat-square&logo=Python&logoColor=white)
