@@ -16,23 +16,9 @@
 <a href="https://kgithub.com/AshenOneme"><img src="https://img.shields.io/badge/-GitHub-pink?style=style=flat-square&logo=github" /></a>
 <a href="http://wufengyun.com:888/"><img src="https://img.shields.io/badge/-Abaqus-005386?style=style=flat-square&logo=Dassault Systèmes&logoColor=fff" /></a>
 <a href="https://opensees.berkeley.edu/wiki/index.php/Command_Manual"><img src="https://img.shields.io/badge/-OpenSees-666666?style=style=flat-square&logo=Internet-Archive&logoColor=fff" /></a>
-  
+<a href="https://www.raspberrypi.com/software/"><img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=style=flat-square&logo=Raspberry-Pi&logoColor=white" /></a>  
+<a href="https://www.sciencedirect.com/"><img src="https://img.shields.io/badge/-SCI-FFC600?style=style=flat-square&logo=Elsevier&logoColor=black" /></a>
 </div> 
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=style=flat-square&logo=Python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=style=flat-square&logo=PyTorch&logoColor=white)
-![Sklearn](https://img.shields.io/badge/-Sklearn-F7931E?style=style=flat-square&logo=scikit-learn&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=style=flat-square&logo=Jupyter&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-pink?style=style=flat-square&logo=github)
-![Abaqus](https://img.shields.io/badge/-Abaqus-005386?style=style=flat-square&logo=Dassault-Systèmes&logoColor=fff)
-![OpenSees](https://img.shields.io/badge/-OpenSees-666666?style=style=flat-square&logo=Internet-Archive&logoColor=fff)
-![Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=style=flat-square&logo=Raspberry-Pi&logoColor=white)
-![ESP32](https://img.shields.io/badge/-ESP%20Home-000000?style=style=flat-square&logo=ESPHome&logoColor=white)
-![SCI](https://img.shields.io/badge/-SCI-FFC600?style=style=flat-square&logo=Elsevier&logoColor=black)
-![Steam](https://img.shields.io/badge/-Steam-000000?style=style=flat-square&logo=Steam&logoColor=white)
-
-</div>
 
 <!-- Self introduction 自我介绍 -->
 #  🙋 Hello
