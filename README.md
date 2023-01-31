@@ -31,7 +31,7 @@
 <!-- 个人信息统计 --> 
 <div align="center"> 
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=AshenOneme&show_icons=true&theme=radical" /> 
-  <img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AshenOneme&theme=radical&hide_title=true&hide_border=true&langs_count=6" /> 
+  <img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AshenOneme&theme=radical&langs_count=6" /> 
   <img src="https://github-profile-trophy.vercel.app/?username=AshenOneme&theme=onedark" />  
 </div>
 
