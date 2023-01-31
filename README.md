@@ -1,8 +1,10 @@
 # Hi 🐼 Welcome to Ashen's Github Homepage!
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;非淡泊无以明志，非宁静无以致远。;非学无以广才，非志无以成学。;淫慢则不能励精，险躁则不能治性。&font=Fira+Code&color=283C63&size=25&weight=600&duration=6000&pause=1000&height=80" />
 
-![icon](https://user-images.githubusercontent.com/98397090/215451917-0cdfc404-e943-49f6-aeaf-2debc56b413d.png)
-
+<div align=center>
+<img width=1200 src="https://user-images.githubusercontent.com/98397090/215451917-0cdfc404-e943-49f6-aeaf-2debc56b413d.png">  
+<img width=1200 src="https://user-images.githubusercontent.com/98397090/215686299-33aae200-d58a-4be3-b61c-5f73fdc214e4.png">
+</div>
 
 </p>
 &emsp;&emsp; 
@@ -26,13 +28,7 @@
 #  🙋 Hello
 
 <p>✍️&nbsp;&nbsp;大家好，我是Ashen! 目前就读于南京工业大学，坚信代码让土木更美好!</p>
-<p>&emsp;&emsp;Once a new technology becomes popular, you can either sit on the roller or become a paving stone.</p>
-<p>&emsp;&emsp;一种新技术一旦开始流行，你要么坐上压路机，要么成为铺路石。</p>
 
-<div align=center>
-<img width=1200 src="https://user-images.githubusercontent.com/98397090/215685121-29a0d1ae-d464-4ef4-bfdb-4545c13a29e5.png"&height="150">
-</div>
-  
 <!-- 个人信息统计 --> 
 <div align="center"> 
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=AshenOneme&show_icons=true&theme=radical" /> 
