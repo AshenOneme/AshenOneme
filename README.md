@@ -29,6 +29,10 @@
 
 <p>✍️&nbsp;&nbsp;大家好，我是Ashen! 目前就读于南京工业大学，坚信代码让土木更美好!</p>
 
+<div align=center>
+<img width=1200 src="https://user-images.githubusercontent.com/98397090/215719365-4302990f-981b-4c3a-8498-ba232cad0bf9.png">  
+</div>
+
 <!-- 个人信息统计 --> 
 <div align="center"> 
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=AshenOneme&show_icons=true&theme=radical" /> 
