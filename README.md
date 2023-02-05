@@ -35,11 +35,15 @@
 </div>
 
 <!-- 个人信息统计 --> 
-<div align="center"> 
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=AshenOneme&show_icons=true&theme=radical" /> 
-  <img height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AshenOneme&theme=radical&langs_count=6" /> 
-  <img height="200px" src="https://github-profile-trophy.vercel.app/?username=AshenOneme&theme=onedark" />  
-</div>
+<table align="center" border="0" style="border-collapse: collapse;">
+  <tr>
+    <td><div align=center><img height="250px" src="https://github-readme-stats.vercel.app/api?username=AshenOneme&show_icons=true&theme=radical"/></td>
+    <td><div align=center><img height="250px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AshenOneme&theme=radical&langs_count=6"/></td>
+  </tr> 
+  <tr>
+    <td colspan="2"><div align=center><img height="200px" src="https://github-profile-trophy.vercel.app/?username=AshenOneme&theme=onedark"/></td>
+  </tr>
+</table>
 
 <div align="center"> 
 <!-- visitor statistics logo 访客数统计徽标 -->
