@@ -35,10 +35,10 @@
 </div>
 
 <!-- 个人信息统计 --> 
-
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=AshenOneme&show_icons=true&theme=radical"/></a>
-<img height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AshenOneme&theme=radical&langs_count=6"/></a>
-
+<div align="center"> 
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=AshenOneme&show_icons=true&theme=radical"/></a>
+<img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AshenOneme&theme=radical&langs_count=6"/></a>
+</div> 
 
 <div align="center"> 
 <img height="200px" src="https://github-profile-trophy.vercel.app/?username=AshenOneme&theme=onedark"/></a>
