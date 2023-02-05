@@ -43,9 +43,9 @@
 
 <div align="center"> 
 <!-- visitor statistics logo 访客数统计徽标 -->
-<img src="https://visitor-badge.glitch.me/badge?page_id=AshenOneme" /> 
+<img src="https://visitor-badge.glitch.me/badge?page_id=AshenOneme" /></a>
 <a href="https://mp.weixin.qq.com/s/V-zOT4yfWShJ6UQ0F5T-Sg"><img src="https://img.shields.io/badge/公众号-爱研思谈-brightgreen?style=style=flat-square&logo=Wechat&logoColor=07C160" /></a>
-<img src="https://img.shields.io/badge/QQ群-904117681-1A162D?colorA=abcdef&colorB=36465D&style=style=flat-square&logo=Tencent-QQ&logoColor=1A162D" />
+<a href="https://mp.weixin.qq.com/s/V-zOT4yfWShJ6UQ0F5T-Sg"><img src="https://img.shields.io/badge/QQ群-904117681-1A162D?colorA=abcdef&colorB=36465D&style=style=flat-square&logo=Tencent-QQ&logoColor=1A162D" /></a>
 </div> 
 
 
