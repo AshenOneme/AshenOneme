@@ -51,4 +51,5 @@
 <a href="https://qm.qq.com/cgi-bin/qm/qr?k=XC4pWfD5wrrB0sRI7VIP1Cm5z5v8rHFf&jump_from=webapi&authKey=7KupjM+w3ShrsogmYw+4LPfIy6znSnlYjzZzcPmDUnNwvwB0JMafdhWnrpBd5zdc"><img src="https://img.shields.io/badge/QQ群-904117681-1A162D?colorA=abcdef&colorB=36465D&style=style=flat-square&logo=Tencent-QQ&logoColor=1A162D" /></a>
 </div> 
 
+#  我的仓库系列
 <a  href ="https://github.com/AshenOneme/OpenSeespy-common-problems-and-cases">👉OpenSeespy教学</a>
