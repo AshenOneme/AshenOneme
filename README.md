@@ -25,7 +25,12 @@
 <a href="https://simpleicons.org/"><img src="https://img.shields.io/badge/-Simple%20Icons-111111?style=style=flat-square&logo=Simple Icons&logoColor=fff" /></a>
 </div> 
 
-#  我的仓库系列
+<div align=center>
+  
+# 🌟🌟🌟🌟🌟🌟🌟🌟我的仓库系列🌟🌟🌟🌟🌟🌟🌟🌟
+  
+</div> 
+
 ### 👉OpenSeespy教学(My tutorial on OpenSees)    
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——基础案例及常见问题(Basic cases and frequently asked questions)**](https://github.com/AshenOneme/OpenSeespy-common-problems-and-cases)      
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——自复位节点分析(Analysis of self-centering joints)**](https://github.com/AshenOneme/OpenSees-Self-centering-beam-to-column-connections)     
