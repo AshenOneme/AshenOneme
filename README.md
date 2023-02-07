@@ -45,7 +45,7 @@
 <!-- Self introduction 自我介绍 -->
 #  🙋 Hello
 
-<p>✍️&nbsp;&nbsp;大家好，我是Ashen! 目前就读于南京工业大学，坚信代码让土木更美好!</p>
+<p><strong>✍️&nbsp;&nbsp;大家好，我是Ashen! 目前就读于南京工业大学，坚信代码让土木更美好!</strong></p>
 
 <div align=center>
 <img width=1200 src="https://user-images.githubusercontent.com/98397090/215958303-d4ffa434-79de-4ce0-b0ed-39bbc6bdaba4.gif">  
