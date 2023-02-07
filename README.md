@@ -58,7 +58,7 @@
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——自复位框架结构易损性分析👈**](https://github.com/AshenOneme/OpenSees-Self-centering-frame-IDA)     
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——遗传算法优化👈**](https://github.com/AshenOneme/Structural-optimization-based-on-genetic-algorithm)     
 ### [👉机器学习👈]            
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——自复位节点分析👈**](https://github.com/AshenOneme/OpenSees-Self-centering-beam-to-column-connections)     
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——结构破坏预测👈**](https://github.com/AshenOneme/Machine-learning-for-structural-damage-prediction)     
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——自复位框架结构易损性分析👈**](https://github.com/AshenOneme/OpenSees-Self-centering-frame-IDA)     
 
 
