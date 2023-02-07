@@ -52,4 +52,4 @@
 </div> 
 
 #  我的仓库系列
-<a  href ="https://github.com/AshenOneme/OpenSeespy-common-problems-and-cases">👉<span style="display: inline-block;border-bottom: 1px solid #000;padding: 0 20px;"><strong>OpenSeespy教学</strong></span></a>
+<a  href ="https://github.com/AshenOneme/OpenSeespy-common-problems-and-cases">👉<strong>OpenSeespy教学👈</strong></a>
