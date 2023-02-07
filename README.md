@@ -55,4 +55,4 @@
 #  我的仓库系列
 ### [👉OpenSeespy教学👈](https://github.com/AshenOneme/OpenSeespy-common-problems-and-cases)        
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——自复位节点分析👈**](https://github.com/AshenOneme/OpenSees-Self-centering-beam-to-column-connections)     
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——自复位框架结构分析👈**](https://github.com/AshenOneme/OpenSees-Self-centering-beam-to-column-connections)     
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——自复位框架结构易损性分析👈**](https://github.com/AshenOneme/OpenSees-Self-centering-frame-IDA)     
