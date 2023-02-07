@@ -25,6 +25,18 @@
 <a href="https://simpleicons.org/"><img src="https://img.shields.io/badge/-Simple%20Icons-111111?style=style=flat-square&logo=Simple Icons&logoColor=fff" /></a>
 </div> 
 
+#  我的仓库系列
+### 👉OpenSeespy教学(My tutorial on OpenSees)    
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——基础案例及常见问题(Basic cases and frequently asked questions)**](https://github.com/AshenOneme/OpenSeespy-common-problems-and-cases)      
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——自复位节点分析(Analysis of self-centering joints)**](https://github.com/AshenOneme/OpenSees-Self-centering-beam-to-column-connections)     
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——自复位框架结构易损性分析(Seismic vulnerability analysis of self-centering frame structure)**](https://github.com/AshenOneme/OpenSees-Self-centering-frame-IDA)     
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——遗传算法优化(Structural vibration optimization of genetic algorithm)**](https://github.com/AshenOneme/Structural-optimization-based-on-genetic-algorithm)     
+### 👉机器学习(Machine learning)           
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——结构破坏预测(Structural damage prediction)**](https://github.com/AshenOneme/Machine-learning-for-structural-damage-prediction)     
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——机器视觉框架(Machine vision framework——based on Raspberry Pi)**](https://github.com/AshenOneme/Yolov5-Lite-Raspberry-Pi)    
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——欠耦合系统平衡(Study on the equilibrium of undercoupled systems——based on Raspberry Pi)**](https://github.com/AshenOneme/Balance-car)   
+
+
 <!-- Self introduction 自我介绍 -->
 #  🙋 Hello
 
@@ -50,17 +62,3 @@
 <a href="https://mp.weixin.qq.com/s/V-zOT4yfWShJ6UQ0F5T-Sg"><img src="https://img.shields.io/badge/公众号-爱研思谈-brightgreen?style=style=flat-square&logo=Wechat&logoColor=07C160" /></a>
 <a href="https://qm.qq.com/cgi-bin/qm/qr?k=XC4pWfD5wrrB0sRI7VIP1Cm5z5v8rHFf&jump_from=webapi&authKey=7KupjM+w3ShrsogmYw+4LPfIy6znSnlYjzZzcPmDUnNwvwB0JMafdhWnrpBd5zdc"><img src="https://img.shields.io/badge/QQ群-904117681-1A162D?colorA=abcdef&colorB=36465D&style=style=flat-square&logo=Tencent-QQ&logoColor=1A162D" /></a>
 </div> 
-
-
-#  我的仓库系列
-### 👉OpenSeespy教学(My tutorial on OpenSees)    
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——基础案例及常见问题(Basic cases and frequently asked questions)**](https://github.com/AshenOneme/OpenSeespy-common-problems-and-cases)      
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——自复位节点分析(Analysis of self-centering joints)**](https://github.com/AshenOneme/OpenSees-Self-centering-beam-to-column-connections)     
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——自复位框架结构易损性分析(Seismic vulnerability analysis of self-centering frame structure)**](https://github.com/AshenOneme/OpenSees-Self-centering-frame-IDA)     
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——遗传算法优化(Structural vibration optimization of genetic algorithm)**](https://github.com/AshenOneme/Structural-optimization-based-on-genetic-algorithm)     
-### 👉机器学习(Machine learning)           
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——结构破坏预测(Structural damage prediction)**](https://github.com/AshenOneme/Machine-learning-for-structural-damage-prediction)     
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——机器视觉框架(Machine vision framework——based on Raspberry Pi)**](https://github.com/AshenOneme/Yolov5-Lite-Raspberry-Pi)    
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——欠耦合系统平衡(Study on the equilibrium of undercoupled systems——based on Raspberry Pi)**](https://github.com/AshenOneme/Balance-car)   
-
-
