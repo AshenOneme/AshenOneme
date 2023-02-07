@@ -53,3 +53,4 @@
 
 #  我的仓库系列
 ### [👉OpenSeespy教学👈](https://github.com/AshenOneme/OpenSeespy-common-problems-and-cases)
+### [👉自复位结构分析👈](https://github.com/AshenOneme/OpenSeespy-common-problems-and-cases)
