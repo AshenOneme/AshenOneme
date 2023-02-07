@@ -60,6 +60,6 @@
 ### [👉机器学习👈]            
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——结构破坏预测👈**](https://github.com/AshenOneme/Machine-learning-for-structural-damage-prediction)     
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——机器视觉框架👈**](https://github.com/AshenOneme/Yolov5-Lite-Raspberry-Pi)    
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——机器视觉框架👈**](https://github.com/AshenOneme/Yolov5-Lite-Raspberry-Pi)   
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——欠耦合系统平衡👈**](https://github.com/AshenOneme/Balance-car)   
 
 
