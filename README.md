@@ -32,16 +32,16 @@
 </div> 
 
 ### 🏛OpenSeespy教学(My tutorial on OpenSees)        
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——基础案例及常见问题(Basic cases and frequently asked questions)**](https://github.com/AshenOneme/OpenSeespy-common-problems-and-cases)      
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——自复位节点分析(Analysis of self-centering joints)**](https://github.com/AshenOneme/OpenSees-Self-centering-beam-to-column-connections)     
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——自复位框架结构易损性分析(Seismic vulnerability analysis of self-centering frame structure)**](https://github.com/AshenOneme/OpenSees-Self-centering-frame-IDA)     
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——遗传算法优化(Structural vibration optimization of genetic algorithm)**](https://github.com/AshenOneme/Structural-optimization-based-on-genetic-algorithm)     
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————基础案例及常见问题(Basic cases and frequently asked questions)**](https://github.com/AshenOneme/OpenSeespy-common-problems-and-cases)      
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————自复位节点分析(Analysis of self-centering joints)**](https://github.com/AshenOneme/OpenSees-Self-centering-beam-to-column-connections)     
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————自复位框架结构易损性分析(Seismic vulnerability analysis of self-centering frame structure)**](https://github.com/AshenOneme/OpenSees-Self-centering-frame-IDA)     
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————遗传算法优化(Structural vibration optimization of genetic algorithm)**](https://github.com/AshenOneme/Structural-optimization-based-on-genetic-algorithm)     
 ### 📡机器学习(Machine learning)        
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——结构破坏预测(Structural damage prediction)**](https://github.com/AshenOneme/Machine-learning-for-structural-damage-prediction)     
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——机器视觉框架(Machine vision framework——based on Raspberry Pi)**](https://github.com/AshenOneme/Yolov5-Lite-Raspberry-Pi)    
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——欠耦合系统平衡(Study on the equilibrium of undercoupled systems——based on Raspberry Pi)**](https://github.com/AshenOneme/Balance-car)   
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————结构破坏预测(Structural damage prediction)**](https://github.com/AshenOneme/Machine-learning-for-structural-damage-prediction)     
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————机器视觉框架(Machine vision framework——based on Raspberry Pi)**](https://github.com/AshenOneme/Yolov5-Lite-Raspberry-Pi)    
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————欠耦合系统平衡(Study on the equilibrium of undercoupled systems——based on Raspberry Pi)**](https://github.com/AshenOneme/Balance-car)   
 ### 🚀自编程序(Self-developed program) 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——滞回曲线处理程序(hysteresis curve processing program)**](https://github.com/AshenOneme/Hysteresis-curve-processing-program) 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————滞回曲线处理程序(hysteresis curve processing program)**](https://github.com/AshenOneme/Hysteresis-curve-processing-program) 
 
 
 <!-- Self introduction 自我介绍 -->
