@@ -40,7 +40,7 @@
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——结构破坏预测(Structural damage prediction)**](https://github.com/AshenOneme/Machine-learning-for-structural-damage-prediction)     
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——机器视觉框架(Machine vision framework——based on Raspberry Pi)**](https://github.com/AshenOneme/Yolov5-Lite-Raspberry-Pi)    
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——欠耦合系统平衡(Study on the equilibrium of undercoupled systems——based on Raspberry Pi)**](https://github.com/AshenOneme/Balance-car)   
-### 📊自编程序(Self-compiling program) 
+### 📊自编程序(Self-developed program) 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|——滞回曲线处理程序(hysteresis curve processing program)**](https://github.com/AshenOneme/Hysteresis-curve-processing-program) 
 
 
