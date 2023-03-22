@@ -63,13 +63,13 @@
 <img height="200px" src="https://github-profile-trophy.vercel.app/?username=AshenOneme&theme=onedark"/></a>
 </div> 
 
+<div align=center>
+<img width=1200 src="https://user-images.githubusercontent.com/98397090/226848771-ec836c0c-efa3-4b47-b8c9-a202ab93219e.jpg">
+</div>
+
 <div align="center"> 
 <!-- visitor statistics logo 访客数统计徽标 -->
 <img src="https://visitor-badge.glitch.me/badge?page_id=AshenOneme" /></a>
 <a href="https://mp.weixin.qq.com/s/V-zOT4yfWShJ6UQ0F5T-Sg"><img src="https://img.shields.io/badge/公众号-爱研思谈-brightgreen?style=style=flat-square&logo=Wechat&logoColor=07C160" /></a>
 <a href="https://qm.qq.com/cgi-bin/qm/qr?k=XC4pWfD5wrrB0sRI7VIP1Cm5z5v8rHFf&jump_from=webapi&authKey=7KupjM+w3ShrsogmYw+4LPfIy6znSnlYjzZzcPmDUnNwvwB0JMafdhWnrpBd5zdc"><img src="https://img.shields.io/badge/QQ群-904117681-1A162D?colorA=abcdef&colorB=36465D&style=style=flat-square&logo=Tencent-QQ&logoColor=1A162D" /></a>
 </div> 
-
-<div align=center>
-<img width=1200 src="https://user-images.githubusercontent.com/98397090/226848771-ec836c0c-efa3-4b47-b8c9-a202ab93219e.jpg">
-</div>
