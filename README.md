@@ -3,7 +3,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;非淡泊无以明志，非宁静无以致远。;非学无以广才，非志无以成学。;淫慢则不能励精，险躁则不能治性。&font=Fira+Code&color=283C63&size=25&weight=600&duration=6000&pause=1000&height=80" />
 
 <div align=center>
-<img width=1200 src="https://user-images.githubusercontent.com/98397090/226848771-ec836c0c-efa3-4b47-b8c9-a202ab93219e.jpg">
 <img width=1200 src="https://user-images.githubusercontent.com/98397090/215451917-0cdfc404-e943-49f6-aeaf-2debc56b413d.png">  
 <img width=1200 src="https://user-images.githubusercontent.com/98397090/215686299-33aae200-d58a-4be3-b61c-5f73fdc214e4.png">
 </div>
@@ -70,3 +69,7 @@
 <a href="https://mp.weixin.qq.com/s/V-zOT4yfWShJ6UQ0F5T-Sg"><img src="https://img.shields.io/badge/公众号-爱研思谈-brightgreen?style=style=flat-square&logo=Wechat&logoColor=07C160" /></a>
 <a href="https://qm.qq.com/cgi-bin/qm/qr?k=XC4pWfD5wrrB0sRI7VIP1Cm5z5v8rHFf&jump_from=webapi&authKey=7KupjM+w3ShrsogmYw+4LPfIy6znSnlYjzZzcPmDUnNwvwB0JMafdhWnrpBd5zdc"><img src="https://img.shields.io/badge/QQ群-904117681-1A162D?colorA=abcdef&colorB=36465D&style=style=flat-square&logo=Tencent-QQ&logoColor=1A162D" /></a>
 </div> 
+
+<div align=center>
+<img width=1200 src="https://user-images.githubusercontent.com/98397090/226848771-ec836c0c-efa3-4b47-b8c9-a202ab93219e.jpg">
+</div>
