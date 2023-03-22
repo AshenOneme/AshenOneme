@@ -64,7 +64,7 @@
 </div> 
 
 <div align=center>
-<img width=1200 src="https://user-images.githubusercontent.com/98397090/226848771-ec836c0c-efa3-4b47-b8c9-a202ab93219e.jpg">
+<img width=1200 src="https://user-images.githubusercontent.com/98397090/226849667-113cc945-3a90-41c6-bf79-74a72cbb3e84.jpg">
 </div>
 
 <div align="center"> 
