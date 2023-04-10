@@ -10,7 +10,7 @@
 </p>
 &emsp;&emsp;     
 
-### 🧾经常访问的链接    
+### 🧾经常访问的链接(Frequently visited links)    
 <!-- 经常访问的图标 -->
 <div align="center"> 
 <!-- visitor statistics logo 访客数统计徽标 -->
