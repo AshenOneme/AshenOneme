@@ -47,9 +47,7 @@
 
 <!-- Self introduction 自我介绍 -->
 #  🙋 Hello
-
-<p><strong>✍️&nbsp;&nbsp;大家好，我是Ashen! 目前就读于南京工业大学，坚信代码让土木更美好!</strong></p>
-<p><strong>&nbsp;&nbsp;I come from Nanjing, Jiangsu province in China and I am currently studying Civil Engineering as my major at NJTU. Additionally, I have a strong interest in machine learning, deep learning, programming, and embedded systems! Let's learn together as strangers!</strong></p>
+>### &nbsp;&nbsp;&nbsp;&nbsp;*I come from Nanjing, Jiangsu province in China and I am currently studying Civil Engineering as my major at NJTU. Additionally, I have a strong interest in machine learning, deep learning, programming, and embedded systems! Let's make progress together, comrade!*
 
 <div align=center>
 <img width=1200 src="https://user-images.githubusercontent.com/98397090/215958303-d4ffa434-79de-4ce0-b0ed-39bbc6bdaba4.gif">  
