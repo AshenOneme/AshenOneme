@@ -43,6 +43,7 @@
 ### 🚀自编程序(Self-developed program) 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————滞回曲线处理程序(Hysteresis curves processing program)**](https://github.com/AshenOneme/Hysteresis-curve-processing-program)     
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————OpenSeesPy截面生成工具(Abaqus To OpenSeesPy Section)**](https://github.com/AshenOneme/Abaqus-To-OpenSeesPy-Section)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————论文配色优化工具(Paper color optimization tool)**](https://github.com/AshenOneme/Color_select)
 
 <!-- Self introduction 自我介绍 -->
 #  🙋 Hello
