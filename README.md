@@ -39,7 +39,9 @@
 ### 📡机器学习(Machine learning)        
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————结构破坏预测(Structural damage prediction)**](https://github.com/AshenOneme/Machine-learning-for-structural-damage-prediction)     
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————机器视觉框架(Machine vision framework——based on Raspberry Pi)**](https://github.com/AshenOneme/Yolov5-Lite-Raspberry-Pi)    
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————欠耦合系统平衡(Study on the equilibrium of undercoupled systems——based on Raspberry Pi)**](https://github.com/AshenOneme/Balance-car)   
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————欠耦合系统平衡(Study on the equilibrium of undercoupled systems——based on Raspberry Pi)**](https://github.com/AshenOneme/Balance-car)    
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————安全帽识别(Safety helmet identification——based on Yolov5)**](https://github.com/AshenOneme/Yolov5-Safety-helmet)  
+
 ### 🚀自编程序(Self-developed program) 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————滞回曲线处理程序(Hysteresis curves processing program)**](https://github.com/AshenOneme/Hysteresis-curve-processing-program)     
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————OpenSeesPy截面生成工具(Abaqus To OpenSeesPy Section)**](https://github.com/AshenOneme/Abaqus-To-OpenSeesPy-Section)      
