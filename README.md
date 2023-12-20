@@ -30,8 +30,9 @@
 # 🌟🌟🌟🌟🌟🌟🌟🌟🌟我的仓库系列🌟🌟🌟🌟🌟🌟🌟🌟🌟
   
 </div> 
-### 🏛我的论文(My research paper)    
+### 🏛我的论文(My research paper)       
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|———砌体结构加固(Strengthening of masonry structures)**](https://github.com/AshenOneme/Paper/tree/main/%E7%A0%8C%E4%BD%93%E5%8A%A0%E5%9B%BA)         
+
 ### 🏛OpenSeespy教学(My tutorial on OpenSees)        
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————基础案例及常见问题(Basic cases and frequently asked questions)**](https://github.com/AshenOneme/OpenSeespy-common-problems-and-cases)      
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————自复位节点分析(Analysis of self-centering joints)**](https://github.com/AshenOneme/OpenSees-Self-centering-beam-to-column-connections)     
