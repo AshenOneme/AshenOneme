@@ -31,12 +31,6 @@
   
 </div> 
 
-### 📚我的论文(My research paper)        
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|———砌体结构加固(Strengthening of masonry structures)**](https://github.com/AshenOneme/Paper/tree/main/%E7%A0%8C%E4%BD%93%E5%8A%A0%E5%9B%BA)         
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|———自复位混合节点的低周往复试验(Low cycle reciprocating test of self-centering hybrid connections)**](https://github.com/AshenOneme/Paper/tree/main/%E8%87%AA%E5%A4%8D%E4%BD%8D%E6%B7%B7%E5%90%88%E8%8A%82%E7%82%B9)        
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|———震损混合节点的加固试验(Reinforcement test of earthquake-damaged hybrid connections)**](https://github.com/AshenOneme/Paper/tree/main/%E5%8A%A0%E5%9B%BA%E8%87%AA%E5%A4%8D%E4%BD%8D%E6%B7%B7%E5%90%88%E8%8A%82%E7%82%B9)       
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|———基于机器学习方法的结构地震响应预测(Structural seismic response prediction based on machine learning method)**](https://github.com/AshenOneme/Paper/tree/main/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BB%93%E6%9E%84%E5%93%8D%E5%BA%94%E9%A2%84%E6%B5%8B%EF%BC%88%E6%8F%90%E4%BE%9B%E4%B8%BB%E8%A6%81%E4%BB%A3%E7%A0%81%EF%BC%89)                
-
 ### 🏛OpenSeespy教学(My tutorial on OpenSees)        
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————基础案例及常见问题(Basic cases and frequently asked questions)**](https://github.com/AshenOneme/OpenSeespy-common-problems-and-cases)      
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————自复位节点分析(Analysis of self-centering joints)**](https://github.com/AshenOneme/OpenSees-Self-centering-beam-to-column-connections)     
@@ -51,7 +45,13 @@
 ### 🚀自编程序(Self-developed program) 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————滞回曲线处理程序(Hysteresis curves processing program)**](https://github.com/AshenOneme/Hysteresis-curve-processing-program)     
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————OpenSeesPy截面生成工具(Abaqus To OpenSeesPy Section)**](https://github.com/AshenOneme/Abaqus-To-OpenSeesPy-Section)      
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————论文配色优化工具(Paper color optimization tool)**](https://github.com/AshenOneme/Color_select)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————论文配色优化工具(Paper color optimization tool)**](https://github.com/AshenOneme/Color_select)        
+
+### 📚我的论文(My research paper)        
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|———砌体结构加固(Strengthening of masonry structures)**](https://github.com/AshenOneme/Paper/tree/main/%E7%A0%8C%E4%BD%93%E5%8A%A0%E5%9B%BA)         
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|———自复位混合节点的低周往复试验(Low cycle reciprocating test of self-centering hybrid connections)**](https://github.com/AshenOneme/Paper/tree/main/%E8%87%AA%E5%A4%8D%E4%BD%8D%E6%B7%B7%E5%90%88%E8%8A%82%E7%82%B9)        
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|———震损混合节点的加固试验(Reinforcement test of earthquake-damaged hybrid connections)**](https://github.com/AshenOneme/Paper/tree/main/%E5%8A%A0%E5%9B%BA%E8%87%AA%E5%A4%8D%E4%BD%8D%E6%B7%B7%E5%90%88%E8%8A%82%E7%82%B9)       
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|———基于机器学习方法的结构地震响应预测(Structural seismic response prediction based on machine learning method)**](https://github.com/AshenOneme/Paper/tree/main/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%BB%93%E6%9E%84%E5%93%8D%E5%BA%94%E9%A2%84%E6%B5%8B%EF%BC%88%E6%8F%90%E4%BE%9B%E4%B8%BB%E8%A6%81%E4%BB%A3%E7%A0%81%EF%BC%89)      
 
 <!-- Self introduction 自我介绍 -->
 #  🙋 Hello
