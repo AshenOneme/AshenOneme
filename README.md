@@ -31,7 +31,7 @@
   
 </div> 
 
-### 🏛我的论文(My research paper)        
+### 📚我的论文(My research paper)        
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|———砌体结构加固(Strengthening of masonry structures)**](https://github.com/AshenOneme/Paper/tree/main/%E7%A0%8C%E4%BD%93%E5%8A%A0%E5%9B%BA)         
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|———自复位混合节点的低周往复试验(Low cycle reciprocating test of self-centering hybrid connections)**](https://github.com/AshenOneme/Paper/tree/main/%E8%87%AA%E5%A4%8D%E4%BD%8D%E6%B7%B7%E5%90%88%E8%8A%82%E7%82%B9)        
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|———震损混合节点的加固试验(Reinforcement test of earthquake-damaged hybrid connections)**](https://github.com/AshenOneme/Paper/tree/main/%E5%8A%A0%E5%9B%BA%E8%87%AA%E5%A4%8D%E4%BD%8D%E6%B7%B7%E5%90%88%E8%8A%82%E7%82%B9)       
