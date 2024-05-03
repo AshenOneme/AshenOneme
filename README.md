@@ -31,7 +31,7 @@
   
 </div> 
 
-### 🏛OpenSeespy教学(My tutorial on OpenSees)        
+### 🏛OpenSeesPy教学(My tutorial on OpenSees)        
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————基础案例及常见问题(Basic cases and frequently asked questions)**](https://github.com/AshenOneme/OpenSeespy-common-problems-and-cases)      
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————自复位节点分析(Analysis of self-centering joints)**](https://github.com/AshenOneme/OpenSees-Self-centering-beam-to-column-connections)     
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————自复位框架结构易损性分析(Seismic vulnerability analysis of self-centering frame structure)**](https://github.com/AshenOneme/OpenSees-Self-centering-frame-IDA)     
