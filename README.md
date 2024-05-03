@@ -52,7 +52,9 @@
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|———砌体结构加固(Strengthening of masonry structures)**](https://github.com/AshenOneme/Research-papers/tree/main/Experimental%20and%20numerical%20investigation%20on%20the%20seismic%20performance%20of%20masonry%20walls%20reinforced%20by%20PC%20panels)         
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|———自复位混合节点的低周往复试验(Low cycle reciprocating test of self-centering hybrid connections)**](https://github.com/AshenOneme/Research-papers/tree/main/Experimental%20and%20numerical%20investigations%20on%20novel%20post-tensioned%20precast%20beam-to-column%20energy-dissipating%20connections)        
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|———震损混合节点的加固试验(Reinforcement test of earthquake-damaged hybrid connections)**](https://github.com/AshenOneme/Research-papers/tree/main/Seismic%20behavior%20of%20earthquake-damaged%20hybrid%20connections%20reinforced%20with%20replaceable%20energy-dissipating%20elements)       
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|———基于机器学习方法的结构地震响应预测(Structural seismic response prediction based on ML method)**](https://github.com/AshenOneme/Research-papers/tree/main/Seismic%20response%20prediction%20of%20a%20damped%20structure%20based%20on%20data-driven%20methods)      
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|———基于机器学习方法的结构地震响应预测(Structural seismic response prediction based on ML method)**](https://github.com/AshenOneme/Research-papers/tree/main/Seismic%20response%20prediction%20of%20a%20damped%20structure%20based%20on%20data-driven%20methods)    
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|———大跨隔震结构振动台试验(Shaking table test of long span isolated structure)**](https://github.com/AshenOneme/Research-papers/tree/main/Shaking%20Table%20Tests%20and%20Numerical%20Analysis%20of%20the%20Interaction%20of%20a%20Base-isolated%20Steel%20Frame's%20Responses%20with%20a%20Long-span%20Roof)    
+
 
 <!-- Self introduction 自我介绍 -->
 #  🙋 Hello
