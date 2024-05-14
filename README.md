@@ -60,6 +60,7 @@
 #  🙋 Hello
 >### &nbsp;&nbsp;&nbsp;&nbsp;*I come from Nanjing, Jiangsu province in China and I am currently studying civil engineering as my major at NJTU. Additionally, I have a strong interest in machine learning, deep learning, programming, and embedded systems! Let's make progress together, comrade!*
 
+>### &nbsp;&nbsp;&nbsp;&nbsp;*My ORCID:*
 <a
 id="cy-effective-orcid-url"
 class="underline"
