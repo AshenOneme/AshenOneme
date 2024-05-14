@@ -69,8 +69,8 @@ class="underline"
  rel="me noopener noreferrer"
  style="vertical-align: top">
  <img
-    src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-    style="width: 5em; margin-inline-start: 0.5em"
+    src="https://orcid.org/sites/default/files/images/orcid_32x32.png"
+    style="width: 1em; margin-inline-start: 0.5em"
     alt="ORCID iD icon"/>
   https://orcid.org/0009-0004-4454-8112
 </a>
