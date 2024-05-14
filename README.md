@@ -2,6 +2,12 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20World!;非淡泊无以明志，非宁静无以致远。;非学无以广才，非志无以成学。;淫慢则不能励精，险躁则不能治性。&font=Fira+Code&color=283C63&size=25&weight=600&duration=6000&pause=1000&height=80" />
 
+<div>
+  <a href="https://blog.sunguoqi.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快!&center=true&size=27" />
+  </a>
+</div>
+  
 <div align=center>
 <img width=1200 src="https://user-images.githubusercontent.com/98397090/215451917-0cdfc404-e943-49f6-aeaf-2debc56b413d.png">  
 <img width=1200 src="https://user-images.githubusercontent.com/98397090/215686299-33aae200-d58a-4be3-b61c-5f73fdc214e4.png">
