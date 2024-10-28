@@ -42,6 +42,8 @@
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————遗传算法优化(Structural vibration optimization of genetic algorithm)**](https://github.com/AshenOneme/Structural-optimization-based-on-genetic-algorithm)     
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————拓扑优化(Topology optimization based on OpenSeesPy)**](https://github.com/AshenOneme/Topology-optimization)     
 ### 📡机器学习(Machine learning)        
+
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————基于扩散模型的柱截面反向设计(Inverse design of column cross-sections based on diffusion models)**](https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design)  
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————结构破坏预测(Structural damage prediction)**](https://github.com/AshenOneme/Machine-learning-for-structural-damage-prediction)     
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————机器视觉框架(Machine vision framework——based on Raspberry Pi)**](https://github.com/AshenOneme/Yolov5-Lite-Raspberry-Pi)    
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|————欠耦合系统平衡(Study on the equilibrium of undercoupled systems——based on Raspberry Pi)**](https://github.com/AshenOneme/Balance-car)    
