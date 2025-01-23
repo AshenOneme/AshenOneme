@@ -7,9 +7,10 @@
 </div>
   
 <div align=center>
-<img width=1200 src="https://user-images.githubusercontent.com/98397090/215451917-0cdfc404-e943-49f6-aeaf-2debc56b413d.png">  
-<img width=1200 src="https://user-images.githubusercontent.com/98397090/215686299-33aae200-d58a-4be3-b61c-5f73fdc214e4.png">
+<img width=1200 src="Imgs/1.png">  
+<img width=1200 src="Imgs/2.png">
 </div>
+
 
 </p>
 &emsp;&emsp;     
