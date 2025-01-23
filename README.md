@@ -83,7 +83,7 @@ class="underline"
 </a>
 
 <div align=center>
-<img width=1200 src="https://user-images.githubusercontent.com/98397090/215958303-d4ffa434-79de-4ce0-b0ed-39bbc6bdaba4.gif">  
+<img width=1200 src="Imgs/3.gif">  
 </div>
 
 <!-- 个人信息统计 --> 
@@ -97,7 +97,7 @@ class="underline"
 </div> 
 
 <div align=center>
-<img width=1200 src="https://user-images.githubusercontent.com/98397090/226849667-113cc945-3a90-41c6-bf79-74a72cbb3e84.jpg">
+<img width=1200 src="Imgs/4.jpg">
 </div>
 
 <div align="center"> 
