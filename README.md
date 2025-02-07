@@ -62,7 +62,7 @@
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|———基于机器学习方法的结构地震响应预测(Structural seismic response prediction based on ML method)**](https://github.com/AshenOneme/Research-papers/tree/main/Seismic%20response%20prediction%20of%20a%20damped%20structure%20based%20on%20data-driven%20methods)    
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|———大跨隔震结构振动台试验(Shaking table test of long span isolated structure)**](https://github.com/AshenOneme/Research-papers/tree/main/Shaking%20Table%20Tests%20and%20Numerical%20Analysis%20of%20the%20Interaction%20of%20a%20Base-isolated%20Steel%20Frame's%20Responses%20with%20a%20Long-span%20Roof)    
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|———自复位框架结构动力特性演化(The evolution of dynamic characteristics of SCCF structures)**](https://github.com/AshenOneme/Research-papers/tree/main/Study%20on%20the%20evolution%20of%20dynamic%20characteristics%20and%20seismic%20damage%20of%20a%20self-centering%20concrete%20structure%20based%20on%20data-driven%20methods) 
-
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|———砌体填充墙损伤反演(Inversion of seismic damage to masonry infill walls)**](https://github.com/AshenOneme/Research-papers/tree/main/Rapid%20Inversion%20of%20Seismic%20Damage%20to%20Infill%20Walls%20Based%20on%20Diffusion%20Models)
 <!-- Self introduction 自我介绍 -->
 #  🙋 Hello
 >### &nbsp;&nbsp;&nbsp;&nbsp;*I come from Nanjing, Jiangsu province in China and I am currently studying civil engineering as my major at NJTU. Additionally, I have a strong interest in machine learning, deep learning, programming, and embedded systems! Let's make progress together, comrade!*
