@@ -1,9 +1,7 @@
 # Hi 🐼 Welcome to Ashen's Github Homepage!
 
 <div>
-    <a href="https://www.researchgate.net/profile/Tianyang-Zhang-zhangtianyang">
-<img src="https://readme-typing-svg.demolab.com/?lines=>>>%20Hello%20World!;非淡泊无以明志，非宁静无以致远。;非学无以广才，非志无以成学。;淫慢则不能励精，险躁则不能治性。&font=Fira+Code&color=00FFFF&size=40&weight=600&duration=5000&pause=800&height=70&width=1000" />
-  </a>
+<a href="https://www.researchgate.net/profile/Tianyang-Zhang-zhangtianyang"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=283C63&background=577E9A00&width=505&lines=Hello+world!;%E9%9D%9E%E6%B7%A1%E6%B3%8A%E6%97%A0%E4%BB%A5%E6%98%8E%E5%BF%97%EF%BC%8C%E9%9D%9E%E5%AE%81%E9%9D%99%E6%97%A0%E4%BB%A5%E8%87%B4%E8%BF%9C%E3%80%82;%E9%9D%9E%E5%AD%A6%E6%97%A0%E4%BB%A5%E5%B9%BF%E6%89%8D%EF%BC%8C%E9%9D%9E%E5%BF%97%E6%97%A0%E4%BB%A5%E6%88%90%E5%AD%A6%E3%80%82;%E6%B7%AB%E6%85%A2%E5%88%99%E4%B8%8D%E8%83%BD%E5%8A%B1%E7%B2%BE%EF%BC%8C%E9%99%A9%E8%BA%81%E5%88%99%E4%B8%8D%E8%83%BD%E6%B2%BB%E6%80%A7%E3%80%82" alt="Typing SVG" /></a>
 </div>
   
 <div align=center>
