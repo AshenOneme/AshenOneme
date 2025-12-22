@@ -60,6 +60,7 @@
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|———砌体填充墙损伤反演(Inversion of seismic damage to masonry infill walls based on DDPM)**](https://github.com/AshenOneme/Research-papers/tree/main/Rapid%20Inversion%20of%20Seismic%20Damage%20to%20Infill%20Walls%20Based%20on%20Diffusion%20Models)                             
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|———基于扩散模型的耗能墙逆向设计(Inverse design of EDSWs based on diffusiuon models)**](https://github.com/AshenOneme/Research-papers/tree/main/Inverse%20design%20of%20energy-dissipating%20steel%20plate%20walls%20based%20on%20self-supervised%20diffusion%20models)          
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|———多尺度耗能微结构逆向设计(Inverse design of multiscale microstructures)**](https://github.com/AshenOneme/Research-papers/tree/main/MultiDampGen%20A%20Self-constraint%20Latent%20Diffusion%20Framework%20for%20Multiscale%20Energy-dissipating%20Microstructure%20Generation)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[**|———耗能微结构多目标逆向设计(Inverse design of damping microstructures with multiaxial targets)**](https://github.com/AshenOneme/Research-papers/tree/main/Latent%20diffusion%E2%80%93driven%20inverse%20design%20of%20damping%20microstructures)
 
 
 <!-- Self introduction 自我介绍 -->
