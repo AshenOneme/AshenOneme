@@ -97,7 +97,7 @@ class="underline"
 </div> 
 
 <div align=center>
-<img width=1200 src="Imgs/4.jpg">
+<img width=1200 src="Imgs/4.png">
 </div>
 
 <div align="center"> 
