@@ -86,15 +86,14 @@ class="underline"
 <img width=1200 src="Imgs/3.gif">  
 </div>
 
-<!-- 个人信息统计 --> 
 <div align="center"> 
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=AshenOneme&show_icons=true&theme=radical"/></a>
-<img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AshenOneme&theme=radical&langs_count=3"/></a>
-</div> 
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=AshenOneme&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshenOneme&theme=radical&langs_count=3&cache_seconds=1800" />
+</div>
 
 <div align="center"> 
-<img height="200px" src="https://github-profile-trophy.vercel.app/?username=AshenOneme&theme=onedark"/></a>
-</div> 
+  <img height="200px" src="https://github-profile-trophy.vercel.app/?username=AshenOneme&theme=onedark" />
+</div>
 
 <div align=center>
 <img width=1200 src="Imgs/4.jpg">
