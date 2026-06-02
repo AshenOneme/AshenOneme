@@ -87,8 +87,8 @@ class="underline"
 </div>
 
 <div align="center"> 
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=AshenOneme&show_icons=true&theme=radical&cache_seconds=1800" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshenOneme&theme=radical&langs_count=3&cache_seconds=1800" />
+  <img height="160px" src="https://github-readme-stats-liart-nine-13.vercel.app/api?username=AshenOneme&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img height="160px" src="https://github-readme-stats-liart-nine-13.vercel.app/api/top-langs/?username=AshenOneme&theme=radical&langs_count=3&cache_seconds=1800" />
 </div>
 
 <div align="center"> 
