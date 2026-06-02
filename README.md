@@ -92,7 +92,7 @@ class="underline"
 </div>
 
 <div align="center"> 
-  <img height="200px" src="https://github-profile-trophy-five-lime.vercel.app/?username=AshenOneme&theme=onedark" />
+  <img height="200px" src="https://trophy.ryglcloud.net/?username=AshenOneme&theme=onedark" />
 </div>
 
 <div align=center>
